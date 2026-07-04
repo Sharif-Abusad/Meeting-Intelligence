@@ -224,7 +224,7 @@ meeting-intelligence/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/sharif-abusad/meeting-intelligence.git
 cd meeting-intelligence
 
 # 2. Create and activate a virtual environment
